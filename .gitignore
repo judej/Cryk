@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+.coverage
+dist/
+build/
+.env
+.env.*
+!.env.example
+agents/notes/
+.DS_Store
